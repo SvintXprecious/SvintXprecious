@@ -4,10 +4,6 @@
     <em>Your Friendly Neighbourhood Software Engineer</em>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
-
 ## 👨‍💻 About Me
 
 - 🌱 I'm skilled in **NextJS** and actively using it in projects
